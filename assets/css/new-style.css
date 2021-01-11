@@ -53,9 +53,9 @@ secondary color- #5cc5e3 */
 }
 
 /* list and grid button */
-.list-grid-btn .btn-primary.active{
+.list-grid-btn .btn-primary.active {
   background-color: #5c7484 !important;
-  
+
 }
 
 /* Dashboard CSS */
@@ -185,6 +185,12 @@ secondary color- #5cc5e3 */
   margin-left: 2px;
 
 }
+
+/* Table ROW Link CSS */
+.table-row {
+  cursor: pointer;
+}
+
 
 
 
