@@ -30,7 +30,8 @@ secondary color- #5cc5e3 */
 .btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled):active,
 .show>.btn-primary.dropdown-toggle {
-  background-color: #5cc5e3;
+  background-color: #5c7484;
+  border-color: #5c7484;
 }
 
 .btn-primary.focus,
@@ -49,6 +50,12 @@ secondary color- #5cc5e3 */
 .pagination {
   justify-content: flex-end;
 
+}
+
+/* list and grid button */
+.list-grid-btn .btn-primary.active{
+  background-color: #5c7484 !important;
+  
 }
 
 /* Dashboard CSS */
